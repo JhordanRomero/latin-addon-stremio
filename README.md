@@ -1,0 +1,1 @@
+# latin-addon-stremio
